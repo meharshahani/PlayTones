@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="HOME"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/search"
+        android:title="SEARCH"
+        android:enabled="true"
+        android:icon="@drawable/search"
+        />
+
+    <item
+        android:id="@+id/music"
+        android:title="MUSIC"
+        android:enabled="true"
+        android:icon="@drawable/music"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:title="MY PROFILE"
+        android:enabled="true"
+        android:icon="@drawable/profile"
+        />
+</menu>
